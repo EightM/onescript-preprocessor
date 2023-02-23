@@ -1,0 +1,12 @@
+[package]
+name = "onescript-preprocessor"
+version = "0.1.0"
+edition = "2021"
+authors = ["Viktor Gukov <zchokobo@gmail.com>"]
+license = "MIT"
+repository = "https://github.com/EightM/onescript-preprocessor"
+description = "Preprocessor for OneScript language"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
